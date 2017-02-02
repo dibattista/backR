@@ -1,0 +1,83 @@
+{     "name": "MMA BTP",
+      "question":[{
+        "genres": "LES BASES",
+        "title": "La Loi qui encadre les acteurs du BTP est :",
+        "photo": "../img/11.jpg",
+        "responseA": {"nom": "Loi SPINETTA", "vrai": "true"},
+        "responseB": {"nom": "Loi SRU", "vrai": "false"},
+        "responseC": {"nom": "Loi PINEL", "vrai": "false"},
+        "responseD": {"nom": "Loi DUFLOT", "vrai": "false"}
+      },{
+        "genres": "LES BASES",
+        "title": "Ouvrages non soumis à l'obligation d'assurance décennale",
+        "photo": "../img/12.jpg",
+        "responseA": {"nom": "Ponts", "vrai": "true"},
+        "responseB": {"nom": "Piscine couverte", "vrai": "false"},
+        "responseC": {"nom": "Gare", "vrai": "false"},
+        "responseD": {"nom": "Parking de centre commercial", "vrai": "false"}
+      },{
+        "genres": "LES PROCEDURES",
+        "title": "Documents non obligatoires pour une entreprise en création",
+        "photo": "../img/13.png",
+        "responseA": {"nom": "Bilan", "vrai": "true"},
+        "responseB": {"nom": "Relevé d'information", "vrai": "false"},
+        "responseC": {"nom": "Diplômes", "vrai": "false"},
+        "responseD": {"nom": "Qualifications", "vrai": "false"}
+      },{
+        "genres": "LES PROCEDURES",
+        "title": "Je dois contacter un inspecteur BTP si le CA est :",
+        "photo": "../img/14.jpg",
+        "responseA": {"nom": "> 2.000.000 €", "vrai": "true"},
+        "responseB": {"nom": "> 750.000 €", "vrai": "false"},
+        "responseC": {"nom": "> 1.000.000 €", "vrai": "false"},
+        "responseD": {"nom": "> 1.500.000 €", "vrai": "false"}
+      },{
+        "genres": "SOUSCRIPTION",
+        "title": "Activités à ne pas déclarer",
+        "photo": "img/15.jpg",
+        "responseA": {"nom": "Activité sous-traitée", "vrai": "true"},
+        "responseB": {"nom": "Activité principale", "vrai": "false"},
+        "responseC": {"nom": "Activité secondaire", "vrai": "false"},
+        "responseD": {"nom": "Activité accessoire (marché de travaux)", "vrai": "false"}
+      },{
+        "genres": "SOUSCRIPTION",
+        "title": "Quels sont les cibles à privilégier chez MMA ?",
+        "photo": "../img/16.jpg",
+        "responseA": {"nom": "Activité de second œuvre", "vrai": "true"},
+        "responseB": {"nom": "Fabricants EPERS", "vrai": "false"},
+        "responseC": {"nom": "Activité de gros œuvre", "vrai": "false"},
+        "responseD": {"nom": "Entreprise tous corps d'état", "vrai": "false"}
+      },{
+        "genres": "SOUSCRIPTION",
+        "title": "Nombre maximum d’activités secondaires sans recueil",
+        "photo": "../img/17.jpg",
+        "responseA": {"nom": "7", "vrai": "true"},
+        "responseB": {"nom": "3", "vrai": "false"},
+        "responseC": {"nom": "5", "vrai": "false"},
+        "responseD": {"nom": "9", "vrai": "false"}
+      },{
+        "genres": "TECHNIQUE PRODUIT",
+        "title": "Quelles sont les garanties packagées dans MMA BTP",
+        "photo": "../img/18.png",
+        "responseA": {"nom": "RC/RCD ouvrages soumis/ non soumis", "vrai": "true"},
+        "responseB": {"nom": "RC/RCD ouvrages soumis", "vrai": "false"},
+        "responseC": {"nom": "RC/RCD ouvrages non soumis", "vrai": "false"},
+        "responseD": {"nom": "RCD ouvrages soumis/non soumis", "vrai": "false"}
+      },{
+        "genres": "TECHNIQUE PRODUIT",
+        "title": "Quelle garantie n'est pas prévue au contrat ?",
+        "photo": "../img/19.png",
+        "responseA": {"nom": "Bris machines (engins chantier)", "vrai": "true"},
+        "responseB": {"nom": "RC Pro.", "vrai": "false"},
+        "responseC": {"nom": "Biens pro. transportés", "vrai": "false"},
+        "responseD": {"nom": "PJ Pro.", "vrai": "false"}
+      },{
+        "genres": "TECHNIQUE PRODUIT",
+        "title": "La garantie Dommages survenus avant réception est une :",
+        "photo": "../img/20.png",
+        "responseA": {"nom": "garantie de dommages", "vrai": "true"},
+        "responseB": {"nom": "garantie de RC Professionnelle", "vrai": "false"},
+        "responseC": {"nom": "garantie de RCD Obligatoire", "vrai": "false"},
+        "responseD": {"nom": "garantie de RCD non obligatoire", "vrai": "false"}
+      }]
+}

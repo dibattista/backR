@@ -1,0 +1,84 @@
+{
+      "name": "MMA PRO-PME",
+      "question": [{
+        "genres": "LES BASES",
+        "title": "La Valeur Vénale du Fonds de Commerce garantit ?",
+        "photo": "../img/1.jpg",
+        "responseA": {"nom": "La clientèle", "vrai": "true"},
+        "responseB": {"nom": "Le matériel", "vrai": "false"},
+        "responseC": {"nom": "Les marchandises", "vrai": "false"},
+        "responseD": {"nom": "Les aménagements…", "vrai": "false"}
+      },{
+        "genres": "LES BASES",
+        "title": "Les responsabilités du preneur et du bailleur résultent du :",
+        "photo": "../img/2.png",
+        "responseA": {"nom": "Code civil", "vrai": "true"},
+        "responseB": {"nom": "Code des assurances", "vrai": "false"},
+        "responseC": {"nom": "Code du travail", "vrai": "false"},
+        "responseD": {"nom": "Code pénal", "vrai": "false"}
+      },{
+          "genres": "LES PROCEDURES",
+          "title": "Justificatifs obligatoires en souscription de niveau 1 ?",
+          "photo": "../img/3.jpg",
+          "responseA": {"nom": "Extrait K-BIS", "vrai": "true"},
+          "responseB": {"nom": "Bail", "vrai": "false"},
+          "responseC": {"nom": "Bilan", "vrai": "false"},
+          "responseD": {"nom": "Plan des bâtiments", "vrai": "false"}
+      },{
+          "genres": "LES PROCEDURES",
+          "title": "Rétroactivité maximale possible en affaire nouvelle ?",
+          "photo": "../img/4.jpg",
+          "responseA": {"nom": "3 Jours", "vrai": "true"},
+          "responseB": {"nom": "2 Jours", "vrai": "false"},
+          "responseC": {"nom": "7 Jours", "vrai": "false"},
+          "responseD": {"nom": "15 Jours", "vrai": "false"}
+      },{
+          "genres": "SOUSCRIPTION",
+          "title": "Montant garanti en dommages électriques ?",
+          "photo": "../img/5.jpg",
+          "responseA": {"nom": "20 000 €", "vrai": "true"},
+          "responseB": {"nom": "6 000 €", "vrai": "false"},
+          "responseC": {"nom": "12 000 €", "vrai": "false"},
+          "responseD": {"nom": "40 000 €", "vrai": "false"}
+      },{
+          "genres": "SOUSCRIPTION",
+          "title": "Activité secondaire à déclarer au contrat si :",
+          "photo": "../img/6.jpg",
+          "responseA": {"nom": "Le CA est > à 20 %", "vrai": "true"},
+          "responseB": {"nom": "Le CA est < à 10 %", "vrai": "false"},
+          "responseC": {"nom": "Le CA est < à 20 %", "vrai": "false"},
+          "responseD": {"nom": "Le CA est > à 30 %", "vrai": "false"}
+      },{
+          "genres": "SOUSCRIPTION",
+          "title": "Le lieu d'exploitation principal est celui qui a :",
+          "photo": "../img/7.jpg",
+          "responseA": {"nom": "La plus grande superficie", "vrai": "true"},
+          "responseB": {"nom": "Le siège social", "vrai": "false"},
+          "responseC": {"nom": "L'effectif le plus élevé", "vrai": "false"},
+          "responseD": {"nom": "Le CA le plus important", "vrai": "false"}
+      },{
+          "genres": "TECHNIQUE PRODUIT",
+          "title": "Les biens mobiliers d'exploitation comprennent",
+          "photo": "../img/8.jpg",
+          "responseA": {"nom": "Les matériels", "vrai": "true"},
+          "responseB": {"nom": "Les agencements", "vrai": "false"},
+          "responseC": {"nom": "Les supports d'information", "vrai": "false"},
+          "responseD": {"nom": "Les valeurs", "vrai": "false"}
+      },{
+          "genres": "TECHNIQUE PRODUIT",
+          "title": "La garantie aménagements extérieurs garantit les :",
+          "photo": "../img/9.jpg",
+          "responseA": {"nom": "parkings", "vrai": "true"},
+          "responseB": {"nom": "portails", "vrai": "false"},
+          "responseC": {"nom": "clôtures non végétales", "vrai": "false"},
+          "responseD": {"nom": "mobiliers de jardin", "vrai": "false"}
+      },{
+          "genres": "TECHNIQUE PRODUIT",
+          "title": "Les matériels de plus de 15 ans ne sont plus garantis en :",
+          "photo": "../img/10.jpg",
+          "responseA": {"nom": "Dommages électriques", "vrai": "true"},
+          "responseB": {"nom": "Incendie et risques annexes", "vrai": "false"},
+          "responseC": {"nom": "Autres risques sauf", "vrai": "false"},
+          "responseD": {"nom": "Aménagements extérieurs", "vrai": "false"}
+      }]
+}

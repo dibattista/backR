@@ -1,0 +1,85 @@
+
+{
+      "name": "MMA PROS DE L'AUTO",
+      "question":[{
+        "genres": "LES BASES",
+        "title": "Le certificat W garage est :",
+        "photo": "../img/21.png",
+        "responseA": {"nom": "payant & rattaché au garage", "vrai": "true"},
+        "responseB": {"nom": "gratuit & rattaché au garage", "vrai": "false"},
+        "responseC": {"nom": "payant & rattaché à un véhicule", "vrai": "false"},
+        "responseD": {"nom": "gratuit & rattaché à un véhicule", "vrai": "false"}
+      },{
+        "genres": "LES BASES",
+        "title": "Le garagiste a un accident avec un véhicule confié (test) : Garantie ?",
+        "photo": "../img/22.jpg",
+        "responseA": {"nom": "RC circulation", "vrai": "true"},
+        "responseB": {"nom": "RC exploitation", "vrai": "false"},
+        "responseC": {"nom": "RC professionnelle", "vrai": "false"},
+        "responseD": {"nom": "RC mandataire social", "vrai": "false"}
+      },{
+        "genres": "LES PROCEDURES",
+        "title": "DR à contacter si à l'extérieur des bâtiments :",
+        "photo": "../img/23.jpg",
+        "responseA": {"nom": "véhicules destinés à la vente > 100", "vrai": "true"},
+        "responseB": {"nom": "véhicules destinés à la vente > 50", "vrai": "false"},
+        "responseC": {"nom": "véhicules confiés en réparation > 50", "vrai": "false"},
+        "responseD": {"nom": "véhicules confiés en réparation > 100", "vrai": "false"}
+      },{
+        "genres": "LES PROCEDURES",
+        "title": "Le véhicule de courtoisie est à désigner dans quel onglet :",
+        "photo": "../img/24.png",
+        "responseA": {"nom": "'risque' catégorie véhicules entreprise", "vrai": "true"},
+        "responseB": {"nom": "'véhicule' catégorie véhicules entreprise", "vrai": "false"},
+        "responseC": {"nom": "'risque' catégorie véhicules confiés", "vrai": "false"},
+        "responseD": {"nom": "'véhicule' catégorie véhicules confiés", "vrai": "false"}
+      },{
+        "genres": "SOUSCRIPTION",
+        "title": "La location sans chauffeur peut être assurée si",
+        "photo": "../img/25.png",
+        "responseA": {"nom": "Maxi. 5 véhicules destinés à la location", "vrai": "true"},
+        "responseB": {"nom": "valeur maxi. / véhicule : 38.000 €", "vrai": "false"},
+        "responseC": {"nom": "franchise pour sinistre : 600 €", "vrai": "false"},
+        "responseD": {"nom": "société distincte pour location", "vrai": "false"}
+     },{
+       "genres": "SOUSCRIPTION",
+       "title": "Le lieu d'exploitation principal est celui qui a :",
+       "photo": "../img/26.jpg",
+       "responseA": {"nom": "L'effectif le plus élevé", "vrai": "true"},
+       "responseB": {"nom": "Le siège social", "vrai": "false"},
+       "responseC": {"nom": "La plus grande superficie", "vrai": "false"},
+       "responseD": {"nom": "Le CA le plus important", "vrai": "false"}
+     },{
+       "genres": "SOUSCRIPTION",
+       "title": "Une activité secondaire doit être déclarée au contrat si elle est :",
+       "photo": "../img/27.jpg",
+       "responseA": {"nom": "> 30 % du chiffre d'affaires", "vrai": "true"},
+       "responseB": {"nom": "> 10 % du chiffre d'affaires", "vrai": "false"},
+       "responseC": {"nom": "< 20 % du chiffre d'affaires", "vrai": "false"},
+       "responseD": {"nom": "> 20 % du chiffre d'affaires", "vrai": "false"}
+     },{
+       "genres": "TECHNIQUE PRODUIT",
+       "title": "Franchise doublée si accident avec un conducteur assuré qui :",
+       "photo": "../img/28.jpg",
+       "responseA": {"nom": "a moins de 2 ans de permis", "vrai": "true"},
+       "responseB": {"nom": "a moins de 3 ans de permis", "vrai": "false"},
+       "responseC": {"nom": "est totalement responsable", "vrai": "false"},
+       "responseD": {"nom": "est partiellement responsable", "vrai": "false"}
+     },{
+       "genres": "TECHNIQUE PRODUIT",
+       "title": "Un salarié fait tomber la valise diagnostic du garage : garantie ?",
+       "photo": "../img/29.jpg",
+       "responseA": {"nom": "Matériel portable", "vrai": "true"},
+       "responseB": {"nom": "Bris de machines", "vrai": "false"},
+       "responseC": {"nom": "Autres risques sauf", "vrai": "false"},
+       "responseD": {"nom": "RC Biens confiés", "vrai": "false"}
+     },{
+       "genres": "TECHNIQUE PRODUIT",
+       "title": " 'La garantie 'aménagements extérieurs couvre les :",
+       "photo": "../img/30.jpg",
+       "responseA": {"nom": "Glissières de sécurité", "vrai": "true"},
+       "responseB": {"nom": "Portails", "vrai": "false"},
+       "responseC": {"nom": "Clôtures non végétales", "vrai": "false"},
+       "responseD": {"nom": "Matières plastiques des totems", "vrai": "false"}
+      }]
+}
